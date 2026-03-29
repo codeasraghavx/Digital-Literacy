@@ -1,0 +1,33 @@
+The 'Stay Safe Online' Checklist
+1. Lock Down Your UPI Hygiene
+In India, we scan QR codes for everything from chai to textbooks. Never enter your UPI PIN to receive money. Scammers often send "Request Money" links disguised as "Refunds" or "Rewards." If someone says you need to enter your PIN to get a cashback, it's a scam—period.
+
+2. Verify the "Merchant" Before You Pay
+When scanning a QR code at a local shop or a fest stall, always double-check the name that pops up on your screen (like GPay or PhonePe) before hitting 'Pay.' Scammers sometimes paste their own QR stickers over a shopkeeper’s genuine one.
+
+3. Treat Public Wi-Fi Like a Public Restroom
+College libraries and cafes offer free Wi-Fi, which is great for saving data but terrible for security. Avoid logging into your bank accounts or entering credit card details while on these networks. If you must use them, a reliable VPN is your best friend.
+
+4. Use "App-Specific" Permissions
+Apps often ask for access to your contacts, gallery, and location just to function. Be stingy. On your phone settings, ensure apps only have "Approximate Location" and only access your "Selected Photos" rather than your entire camera roll.
+
+5. The "Maa-Paa" Test for Messages
+If you get an urgent WhatsApp message from a "friend" asking for an immediate transfer because of a medical emergency or a "lost phone," call them on their regular number first. Deepfakes and account takeovers are real; always verify the voice or the person behind the text.
+
+6. Diversify Your Passwords (No, 'Password123' Doesn't Count)
+Using the same password for your university portal, Instagram, and Gmail is an invitation for trouble. Use a Password Manager or at least create unique "pass-phrases" (like I-Love-Samosa-2026!) that are harder for bots to crack but easy for you to remember.
+
+7. Clean Up Your Social Tagging
+We love tagging our location at the newest cafe or the campus gate, but "over-sharing" tells strangers exactly where you are and your daily routine. Try posting your "photo dumps" after you’ve left the location rather than in real-time.
+
+8. Enable Two-Factor Authentication (2FA)
+This is the single most effective way to stop hackers. Even if someone steals your password, they can’t get into your WhatsApp or Gmail without that second code. Use an Authenticator app (like Google or Microsoft) instead of SMS codes whenever possible, as SMS can be intercepted.
+
+If Things Go South: How to Report
+If you or a friend falls victim to a digital scam or harassment, don't panic and don't feel ashamed. The faster you act, the better the chance of recovering your funds or stopping the harasser.
+
+Immediate Helpline: Dial 1930 (The National Cyber Crime Helpline).
+
+Official Portal: File a formal complaint at cybercrime.gov.in.
+
+Pro Tip: If it’s a financial fraud, reporting it within the first "Golden Hour" (the first 1-2 hours) significantly increases the chances of the bank freezing the scammer's account before they withdraw the money.
